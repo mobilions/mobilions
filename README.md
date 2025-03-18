@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tushar Patel!
 
-<!--
-**mobilions/mobilions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Ai/ML expert | Full Stack Mobile app Developer | Backend Developer**
 
-Here are some ideas to get you started:
+I’m a passionate Full Stack Mobile App Developer with over 10 years of experience in building scalable applications for iOS, Android, iPadOS, Tablets, and visionOS. My expertise spans across Swift, SwiftUI, Kotlin, Java, Flutter, React Native, and UIKit, ensuring seamless cross-platform experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On the backend, I specialize in Node.js & Express, Laravel, and Python, crafting efficient and scalable REST APIs to power modern applications.
+
+For frontend development, I have strong expertise in React, Next.js, Vue.js, TypeScript, Tailwind CSS, and Bootstrap, creating intuitive and high-performance user interfaces for web and mobile platforms.
+
+---
+
+AI & ML-Powered Apps
+I love building AI and ML-powered apps that make work easier and boost productivity. By adding Artificial Intelligence (AI) and Machine Learning (ML) to mobile apps, I create smart, data-driven features that improve efficiency and make apps more user-friendly.
+---
+
+## 🔥 Tech Stack & Skills
+### 🎨 Mobile Development
+- Swift, SwiftUI, UIKit, Combine, CoreData, CloudKit, ARKit, RealityKit, Kotlin, Java  
+
+### 🌐 Backend Development
+- Node.js,Laravel,PHP,Python Express.js, REST APIs, Firebase, MongoDB, PostgreSQL
+
+### 🌐 Frontend Development
+- React, Next.js, Vue.js, TypeScript, Tailwind CSS, and Bootstrap
+
+### 🤖 AI & Machine Learning
+- CoreML, TensorFlow (iOS), Vision Framework  
+
+### 🛠️ Dev Tools & Other
+- Git, Fastlane, CI/CD, Xcode, Docker, Postman, GraphQL, WebSockets, Third-party SDKs & Frameworks  
+
+---
+
+## 📌 GitHub Stats & Projects
+[![GitHub Streak](https://streak-stats.demolab.com?user=gediyaprayag&theme=prussian&short_numbers=true)](https://git.io/streak-stats)
+
+### 🚀 Featured Projects
+- 📱 [Famooshed](https://play.google.com/store/apps/details?id=com.famooshed&hl=en)  
+  *Famooshed is an online market that is partnering with local independent food producers*
+- 📱 [MoneyPhone](https://play.google.com/store/apps/details?id=com.moneyphone.moneyphone)  
+  *A comprehensive health app that helps users monitor and manage wellness.*
+- 📱 [On Time](https://apps.apple.com/us/app/ontime-plan-your-day/id6467190891)  
+  *An intuitive planner for scheduling and productivity management.*
+
+---
+
+## 💡 Let's Connect!
+📫 **Email:** hello@mobilions.com  
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tushar-patel-mobilions/)  
+🌎 **Upwork:** [Portfolio](https://www.upwork.com/freelancers/tusharp)  
+
+💙 Open to collaborations, freelance opportunities, and AI/ML innovations!
