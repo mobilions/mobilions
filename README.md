@@ -9,9 +9,10 @@ On the backend, I specialize in Node.js & Express, Laravel, and Python, crafting
 For frontend development, I have strong expertise in React, Next.js, Vue.js, TypeScript, Tailwind CSS, and Bootstrap, creating intuitive and high-performance user interfaces for web and mobile platforms.
 
 ---
+**AI & ML-Powered Apps**
 
-AI & ML-Powered Apps
 I love building AI and ML-powered apps that make work easier and boost productivity. By adding Artificial Intelligence (AI) and Machine Learning (ML) to mobile apps, I create smart, data-driven features that improve efficiency and make apps more user-friendly.
+
 ---
 
 ## 🔥 Tech Stack & Skills
