@@ -49,6 +49,6 @@ I love building AI and ML-powered apps that make work easier and boost productiv
 ## 💡 Let's Connect!
 📫 **Email:** hello@mobilions.com  
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tushar-patel-mobilions/)  
-🌎 **Upwork:** [Portfolio](https://www.upwork.com/freelancers/tusharp)  
+🌎 **Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/tusharp)  
 
 💙 Open to collaborations, freelance opportunities, and AI/ML innovations!
