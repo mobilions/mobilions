@@ -45,7 +45,7 @@ I love building AI and ML-powered apps that make work easier and boost productiv
   *An intuitive planner for scheduling and productivity management.*
 - 📱 [Time Keeper](https://apps.apple.com/kw/app/time-keeper-kuwait/id1448231512)  
   *An intuitive planner for scheduling and productivity management.*
-- 📱 [AW-Coche](https://apps.apple.com/app/team-aw-coaching/id1544907658)  
+- 📱 [AW-Coach](https://apps.apple.com/app/team-aw-coaching/id1544907658)  
   *The app is for Trainers and Gym users for track daily activity.*
 
 ---
