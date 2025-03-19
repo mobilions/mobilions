@@ -41,7 +41,11 @@ I love building AI and ML-powered apps that make work easier and boost productiv
   *Famooshed is an online market that is partnering with local independent food producers*
 - 📱 [MoneyPhone](https://play.google.com/store/apps/details?id=com.moneyphone.moneyphone)  
   *A comprehensive health app that helps users monitor and manage wellness.*
-- 📱 [On Time](https://apps.apple.com/us/app/ontime-plan-your-day/id6467190891)  
+- 📱 [Scannur](https://apps.apple.com/in/app/scannur/id1560168842)  
+  *An intuitive planner for scheduling and productivity management.*
+- 📱 [Time Keeper](https://apps.apple.com/kw/app/time-keeper-kuwait/id1448231512)  
+  *An intuitive planner for scheduling and productivity management.*
+- 📱 [Time Keeper](https://apps.apple.com/kw/app/time-keeper-kuwait/id1448231512)  
   *An intuitive planner for scheduling and productivity management.*
 
 ---
